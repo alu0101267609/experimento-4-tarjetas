@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/experimento-4-tarjetas/static/css/main.3bf1a51c.chunk.css",
-    "main.js": "/experimento-4-tarjetas/static/js/main.004fa531.chunk.js",
-    "main.js.map": "/experimento-4-tarjetas/static/js/main.004fa531.chunk.js.map",
+    "main.js": "/experimento-4-tarjetas/static/js/main.ba9fcb2f.chunk.js",
+    "main.js.map": "/experimento-4-tarjetas/static/js/main.ba9fcb2f.chunk.js.map",
     "runtime-main.js": "/experimento-4-tarjetas/static/js/runtime-main.29d0766a.js",
     "runtime-main.js.map": "/experimento-4-tarjetas/static/js/runtime-main.29d0766a.js.map",
     "static/js/2.8e267dea.chunk.js": "/experimento-4-tarjetas/static/js/2.8e267dea.chunk.js",
     "static/js/2.8e267dea.chunk.js.map": "/experimento-4-tarjetas/static/js/2.8e267dea.chunk.js.map",
     "index.html": "/experimento-4-tarjetas/index.html",
-    "precache-manifest.f25089b0643f46abb1df56e50384bfa8.js": "/experimento-4-tarjetas/precache-manifest.f25089b0643f46abb1df56e50384bfa8.js",
+    "precache-manifest.5dd9799226b885a898352fce1e7e8104.js": "/experimento-4-tarjetas/precache-manifest.5dd9799226b885a898352fce1e7e8104.js",
     "service-worker.js": "/experimento-4-tarjetas/service-worker.js",
     "static/css/main.3bf1a51c.chunk.css.map": "/experimento-4-tarjetas/static/css/main.3bf1a51c.chunk.css.map",
     "static/js/2.8e267dea.chunk.js.LICENSE.txt": "/experimento-4-tarjetas/static/js/2.8e267dea.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.29d0766a.js",
     "static/js/2.8e267dea.chunk.js",
     "static/css/main.3bf1a51c.chunk.css",
-    "static/js/main.004fa531.chunk.js"
+    "static/js/main.ba9fcb2f.chunk.js"
   ]
 }
